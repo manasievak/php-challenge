@@ -1,0 +1,9 @@
+.align{
+    margin: 5 auto;
+    margin-top: 5%;
+    width:60%;
+}
+.title {
+    font-weight: 300;
+    text-decoration: darkgray;
+}
